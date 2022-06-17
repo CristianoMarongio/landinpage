@@ -1,1 +1,1 @@
-# landinpage
+# landingpage
